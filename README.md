@@ -1,2 +1,4 @@
 # hello-world
-Beginning
+Hello everyone
+
+The way of my program starts.
